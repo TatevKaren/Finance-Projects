@@ -1,1 +1,1 @@
-# Quantitative Finance
+# Finance Projects
