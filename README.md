@@ -14,7 +14,7 @@ Following topics are included in this analysis:
  - Constant Relative Risk Aversion 
 
 
-# 1: Case Study in Investment Project BNP Paribas
+# 2: Case Study in Investment Project BNP Paribas
 File name: 
 
 
