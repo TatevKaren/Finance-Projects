@@ -1,6 +1,7 @@
 # Finance Projects
 
-# 1: Quantitative Finance Case Study
+# 1: Case Study in Black-Scholes SDE Price Evaluation
+File name: Quantitative_Finance_BlackScholes_SDE_Case_Study.pdf
 
 Following toopics are included in thise analysis:
  - Black-Scholes 
@@ -16,7 +17,7 @@ Following toopics are included in thise analysis:
 
 
 
-# 2: Life Insurance Case Study
+# 2: Case Study in Determining Pension Fund's Expected Premium
 File names (Code)
   - LI_ExpectedNetPremiumPensionFund.m
   - LI_ExpectedNetPremiumPensionFund2.m
