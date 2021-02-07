@@ -17,6 +17,6 @@ Following topics are included in this analysis:
 
 
 
-# 2: Case Study in Determining Pension Fund's Expected Premium
+# 2: Case Study in Fund's Expected Premium
 File names: LI_ExpectedNetPremiumPensionFund.m , LI_ExpectedNetPremiumPensionFund2.m, LI_ExpectedSurvivalRates.m, LI_Simulation_Ages.m, qxt.mat
 
