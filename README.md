@@ -3,7 +3,7 @@
 # 1: Case Study in Black-Scholes SDE Price Evaluation
 File name: Quantitative_Finance_BlackScholes_SDE_Case_Study.pdf
 
-Following topics are included in thise analysis:
+Following topics are included in this analysis:
  - Black-Scholes 
  - Stochastic Differential Dquation (SDE)
  - Geometric Brownian Motion
