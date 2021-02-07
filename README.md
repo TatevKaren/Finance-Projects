@@ -14,9 +14,11 @@ Following topics are included in this analysis:
  - Constant Relative Risk Aversion 
 
 
+# 1: Case Study in Investment Project BNP Paribas
+File name: 
 
 
 
-# 2: Case Study in Fund's Expected Premium
+# 3: Case Study in Fund's Expected Premium
 File names: LI_ExpectedNetPremiumPensionFund.m , LI_ExpectedNetPremiumPensionFund2.m, LI_ExpectedSurvivalRates.m, LI_Simulation_Ages.m, qxt.mat
 
