@@ -20,11 +20,11 @@ File name:
 <p align="left">
 <img src="InvestmentProjectBNPParibas_figure1.png?raw=true"
   alt=""
-  width="450" height="350">
+  width="600" height="250">
 </p>
 <img src="InvestmentProjectBNPParibas_figure2.png?raw=true"
   alt=""
-  width="450" height="350">
+  width="600" height="250">
 </p>
 
 # 3: Case Study in Fund's Expected Premium
