@@ -16,8 +16,16 @@ Following topics are included in this analysis:
 
 # 2: Case Study in Investment Project BNP Paribas
 File name: 
-
-
+## Snapshots for data visualization
+<p align="left">
+<img src="InvestmentProjectBNPParibas_figure1.png?raw=true"
+  alt=""
+  width="450" height="350">
+</p>
+<img src="InvestmentProjectBNPParibas_figure2.png?raw=true"
+  alt=""
+  width="450" height="350">
+</p>
 
 # 3: Case Study in Fund's Expected Premium
 File names: LI_ExpectedNetPremiumPensionFund.m , LI_ExpectedNetPremiumPensionFund2.m, LI_ExpectedSurvivalRates.m, LI_Simulation_Ages.m, qxt.mat
