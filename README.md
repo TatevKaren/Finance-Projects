@@ -8,12 +8,12 @@ Model formulation in terms of Stochastic Differential Equations (SDE)'s assuming
 <p align="left">
 <img src="Model_intermsof_SDE.png?raw=true"
   alt=""
-  width="300" height="100">
+  width="400" height="100">
 </p>
 <p align="left">
 <img src="Model_intermsof_SDE2.png?raw=true"
   alt=""
-  width="300" height="100">
+  width="350" height="100">
 </p>
 
 ## Snapshots for data visualization
