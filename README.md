@@ -3,6 +3,26 @@
 # 1: Case Study in Black-Scholes SDE Price Evaluation
 File name: Quantitative_Finance_BlackScholes_SDE_Case_Study.pdf
 
+
+The SDE investor follows: 
+<p align="left">
+<img src="SDE_Wealth_of_investor_follows.png?raw=true"
+  alt=""
+  width="200" height="100">
+</p>
+Black-Scholes world with following setting:
+<p align="left">
+<img src="Assumed_BlackScholes_setting.png?raw=true"
+  alt=""
+  width="200" height="100">
+</p>
+Mean and the variance of the Brownian Motion:
+<p align="left">
+<img src="Mean_Variance_BrownianMotion.png?raw=true"
+  alt=""
+  width="200" height="100">
+</p>
+
 Following topics are included in this analysis:
  - Black-Scholes 
  - Stochastic Differential Dquation (SDE)
