@@ -8,19 +8,19 @@ The SDE investor follows:
 <p align="left">
 <img src="SDE_Wealth_of_investor_follows.png?raw=true"
   alt=""
-  width="300" height="100">
+  width="350" height="100">
 </p>
 Black-Scholes world with following setting:
 <p align="left">
 <img src="Assumed_BlackScholes_setting.png?raw=true"
   alt=""
-  width="250" height="100">
+  width="300" height="100">
 </p>
 Mean and the variance of the Brownian Motion:
 <p align="left">
 <img src="Mean_Variance_BrownianMotion.png?raw=true"
   alt=""
-  width="300" height="100">
+  width="350" height="100">
 </p>
 
 Following topics are included in this analysis:
