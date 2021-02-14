@@ -4,6 +4,18 @@ File name:
 
 In this paper, we investigate whether it's worth it to make an investment in ”Atlantic Lock-In Synthetic Zero”, product can be bought for the price of £100. Whether this amount will be returned and whether it will accrue a return depends on the performance of two indices, namely the FTSE100 and the SP500. We will consider the pay-off in-depth in
 
+Model formulation in terms of Stochastic Differential Equations (SDE)'s assuming the model of geometric Brownian Motion
+<p align="left">
+<img src="Model_intermsof_SDE.png?raw=true"
+  alt=""
+  width="200" height="50">
+</p>
+<p align="left">
+<img src="Model_intermsof_SDE2.png?raw=true"
+  alt=""
+  width="200" height="50">
+</p>
+
 ## Snapshots for data visualization
 <p align="left">
 <img src="InvestmentProjectBNPParibas_figure1.png?raw=true"
