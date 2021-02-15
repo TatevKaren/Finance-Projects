@@ -1,5 +1,5 @@
 # Finance Projects
-# 1: Case Study in Investment Project BNP Paribas
+# 1: Investment Project BNP Paribas
 
 **PAPER:** Case_Study_Investment_Project_BNP_Paribas.pdf
 
