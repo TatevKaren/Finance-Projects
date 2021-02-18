@@ -77,7 +77,7 @@ Following topics are included in this analysis:
 <p align="left">
 <img src="LossFunction_of_PensionFund.png?raw=true"
   alt=""
-  width="350" height="100">
+  width="400" height="100">
 </p>
 
 
