@@ -68,10 +68,16 @@ Following topics are included in this analysis:
 
 
 # 3: Expected Premium Analysis for a Pension Fund
-**Code:** LI_ExpectedNetPremiumPensionFund.m , LI_ExpectedNetPremiumPensionFund2.m, LI_ExpectedSurvivalRates.m
+**Code:** LI_ExpectedNetPremiumPensionFund.m , LI_ExpectedNetPremiumPensionFund2.m, LI_ExpectedSurvivalRates.m, LI_Simulation_Ages.m
 
-**Data:** LI_Simulation_Ages.m, qxt.mat
+**Data:** qxt.mat
 
-**Paper:**
+**Paper:** LI_ExpectedNetPremium_PensionFund.pdf
+
+<p align="left">
+<img src="LossFunction_of_PensionFund.png?raw=true"
+  alt=""
+  width="350" height="100">
+</p>
 
 
