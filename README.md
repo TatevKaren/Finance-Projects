@@ -74,6 +74,7 @@ Following topics are included in this analysis:
 
 **Paper:** LI_ExpectedNetPremium_PensionFund.pdf
 
+Population grows older this results in problems for pension funds. This use-case shows how one can randomly generate the ages of the pension fund customers and calculate the expected pension costs for the pension fund and the expected premium they need to charge to the customers in order to run no losses.
 <p align="left">
 <img src="LossFunction_of_PensionFund.png?raw=true"
   alt=""
